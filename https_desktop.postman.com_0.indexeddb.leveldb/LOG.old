@@ -1,0 +1,9 @@
+2023/12/14-12:41:14.443 3818 Reusing MANIFEST C:\Users\KevinBamwesa\AppData\Roaming\Postman\Partitions\d8796eec-5581-48f0-9415-1d7ad02b0e72\IndexedDB\https_desktop.postman.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/14-12:41:14.443 3818 Recovering log #8
+2023/12/14-12:41:14.451 3818 Level-0 table #12: started
+2023/12/14-12:41:14.463 3818 Level-0 table #12: 446026 bytes OK
+2023/12/14-12:41:14.471 3818 Recovering log #18
+2023/12/14-12:41:14.478 3818 Reusing old log C:\Users\KevinBamwesa\AppData\Roaming\Postman\Partitions\d8796eec-5581-48f0-9415-1d7ad02b0e72\IndexedDB\https_desktop.postman.com_0.indexeddb.leveldb/000018.log 
+2023/12/14-12:41:14.484 3818 Delete type=2 #7
+2023/12/14-12:41:14.484 3818 Delete type=0 #8
+2023/12/14-12:41:14.484 3818 Delete type=2 #20
